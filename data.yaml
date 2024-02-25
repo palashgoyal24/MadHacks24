@@ -1,0 +1,15 @@
+names:
+- crazing defect
+- patch defect
+- pitted surface defect
+- scratch defect
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: severstal-steel-defects
+  url: https://universe.roboflow.com/university-dltie/severstal-steel-defects/dataset/1
+  version: 1
+  workspace: university-dltie
+test: test/images
+train: train/images
+val: valid/images
